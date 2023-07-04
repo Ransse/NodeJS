@@ -77,14 +77,3 @@
 `npm i lodash --save` <=> `npm i lodash -S`
 
 `npm install moment --save-dev` <=> `npm i moment -D`
-
-**<br>
-``
-
-
-**<br>
-``
-**<br>
-``
-**<br>
-``
